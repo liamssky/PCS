@@ -20,7 +20,7 @@ The design uses an Innoswitch 4 and ClampZero IC to control a DC-DC flyback conv
 ![PCS-3D-Front](https://github.com/liamssky/PCS/blob/main/PCS-3D-Front.png)
 ![PCS-3D-Back](https://github.com/liamssky/PCS/blob/main/PCS-3D-Back.png)
 
-## Revision 1
+## Revision 1.0
 ![PCS-REV1](https://github.com/liamssky/PCS/blob/main/PCS-REV1.png)
 
 This board was soldered by me and I wound the coupled-inductor / transformer which I calculated the ideal inductance, winding ratio, and size for. 
