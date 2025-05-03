@@ -11,13 +11,14 @@ Power Conversion System for the Midnight Sun Solar Rayce Car
 The design uses an Innoswitch 4 and ClampZero IC to control a DC-DC flyback converter. The ClampZero employes an active clamp to store the leakage inductance energy in a capacitor which can be recycled later in the switching cycle. The Innoswitch 4 drives the switching MOSFET and achieves zero-voltage-switching by forcing the voltage across the primary switch to zero before beginning a cycle. This results in a higher efficiency flyback converter. 
 
 ## Schematic 
-
+![PCS-SCH-1](https://github.com/liamssky/PCS/blob/main/PCS-SCH-1.png)
 
 ## PCB layout
-
+![PCS-Layout-1](https://github.com/liamssky/PCS/blob/main/PCS-Layout-1.png)
 
 ## 3D Model
-
+![PCS-3D-Front](https://github.com/liamssky/PCS/blob/main/PCS-3D-Front.png)
+![PCS-3D-Back](https://github.com/liamssky/PCS/blob/main/PCS-3D-Back.png)
 
 ## Transformer
 
